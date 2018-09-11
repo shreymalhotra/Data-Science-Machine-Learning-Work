@@ -1,0 +1,15 @@
+{
+    "endpoint": "cal/ds100/fa17/proj2",
+    "name": "Project 2",
+    "protocols": [
+        "file_contents",
+        "grading",
+        "backup"
+    ],
+    "src": [
+        "proj2.ipynb"
+    ],
+    "tests": {
+        "ok_tests/q*.py": "ok_test"
+    }
+}

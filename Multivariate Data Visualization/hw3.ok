@@ -1,0 +1,15 @@
+{
+    "endpoint": "cal/ds100/fa17/hw3",
+    "name": "Homework 3",
+    "protocols": [
+        "file_contents",
+        "grading",
+        "backup"
+    ],
+    "src": [
+        "hw3.ipynb"
+    ],
+    "tests": {
+        "ok_tests/q*.py": "ok_test"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "endpoint": "cal/ds100/fa17/hw6",
+    "name": "hw6",
+    "protocols": [
+        "file_contents",
+        "grading",
+        "backup"
+    ],
+    "src": [
+        "hw6.ipynb"
+    ],
+    "tests": {
+        "ok_tests/q*.py": "ok_test"
+    }
+}
